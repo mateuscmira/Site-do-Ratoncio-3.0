@@ -1,0 +1,114 @@
+.urlLogin {
+    text-align: center;
+}
+
+.urlCadastro {
+    text-align: center;
+}
+
+.botao1 {
+    text-align: center;
+}
+
+.div1 {
+    margin-left: 100px;
+    margin-right: 1750px;
+    font-family: Arial;
+    background-color: blue;
+}
+
+.div2 {
+    margin-left: 200px;
+    margin-right: 1610px;
+    font-family: 'Courier New';
+    background-color: rgb(206, 74, 173);
+}
+
+.div3 {
+    margin-left: 300px;
+    margin-right: 1510px;
+    font-family: 'Gill Sans';
+    background-color: rgb(128, 186, 209);
+}
+
+.div4 {
+    margin-left: 400px;
+    margin-right: 1410px;
+    font-family: Impact;
+    background-color: rgb(157, 212, 55);
+}
+
+.div5 {
+    margin-left: 500px;
+    margin-right: 1330px;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(211, 85, 173);
+}
+.div6 {
+    margin-left: 600px;
+    margin-right: 1230px;
+    font-family: Georgia;
+    background-color: rgb(221, 39, 15);
+}
+.div7 {
+    margin-left: 700px;
+    margin-right: 1080px;
+    font-family: Gill;
+    background-color: rgb(27, 114, 15);
+}
+
+.header1 {
+    text-align: center;
+}
+
+.imagensMacaco {
+    height: 325px;
+    width: auto;
+    display: flex;
+}
+
+.Macacada{
+    display: flex;
+}
+
+.Sorriso{
+    height: 300px;
+    width: auto;
+    margin-right: 30px;
+    margin-bottom: 80px;
+
+}
+.Olhudo{
+    height: 300px;
+    width: auto;
+    margin-right: 30px;
+
+}
+.Topete{
+    height: 300px;
+    width: auto;
+    margin-right: 30px;
+
+}
+.Nareba{
+    height: 300px;
+    width: auto;
+    margin-right: 30px;
+
+}
+.img1{
+    height: 310px;
+    width: auto;
+}
+.img2{
+    height: 310px;
+    width: auto;
+}
+.img3{
+    height: 310px;
+    width: auto;
+}
+.img4{
+    height: 310px;
+    width: auto;
+}
